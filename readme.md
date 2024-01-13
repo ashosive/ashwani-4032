@@ -42,7 +42,7 @@ Thank you.
 - ![34.png](Lab1/34.png)
 - ![35.png](Lab1/35.png)
 
-Proof of work done and submitted during the class session around 8.23pm
+Proof of work done and submitted during the class session around 12thjan 8.23pm
 
 - ![35.png](Lab1/Proof.jpg)
 
