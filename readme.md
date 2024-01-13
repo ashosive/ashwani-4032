@@ -1,0 +1,42 @@
+# Lab Images
+
+Here are the images for the lab:
+
+- ![1.png](./lab/1.png)
+- ![2.png](./lab/2.png)
+- ![3.png](./lab/3.png)
+- ![4.png](./lab/4.png)
+- ![5.png](./lab/5.png)
+- ![6.png](./lab/6.png)
+- ![7.png](./lab/7.png)
+- ![8.png](./lab/8.png)
+- ![9.png](./lab/9.png)
+- ![10.png](./lab/10.png)
+- ![11.png](./lab/11.png)
+- ![12.png](./lab/12.png)
+- ![13.png](./lab/13.png)
+- ![14.png](./lab/14.png)
+- ![15.png](./lab/15.png)
+- ![16.png](./lab/16.png)
+- ![17.png](./lab/17.png)
+- ![18.png](./lab/18.png)
+- ![19.png](./lab/19.png)
+- ![20.png](./lab/20.png)
+- ![21.png](./lab/21.png)
+- ![22.png](./lab/22.png)
+- ![23.png](./lab/23.png)
+- ![24.png](./lab/24.png)
+- ![25.png](./lab/25.png)
+- ![26.png](./lab/26.png)
+- ![27.png](./lab/27.png)
+- ![28.png](./lab/28.png)
+- ![29.png](./lab/29.png)
+- ![30.png](./lab/30.png)
+- ![31.png](./lab/31.png)
+- ![32.png](./lab/32.png)
+- ![33.png](./lab/33.png)
+- ![34.png](./lab/34.png)
+- ![35.png](./lab/35.png)
+
+
+
