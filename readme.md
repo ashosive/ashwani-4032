@@ -1,4 +1,4 @@
-# Lab Images
+# Lab 1 Images
 
 Ashwani Singh Mann
 101494701
