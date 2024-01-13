@@ -3,7 +3,7 @@
 Ashwani Singh Mann
 101494701
 
-just for context my GBC account is not working but i am attacking all the proof tha i have done this work in allocated time frame , proof will ebe attached at the end .
+just for context my GBC account is not working but i am attacking all the proof tha i have done this work in allocated time frame , proof are attached in the end .
 Thank you.
 
 - ![1.png](Lab1/1.png)
