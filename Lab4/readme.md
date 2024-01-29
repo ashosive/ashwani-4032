@@ -8,6 +8,7 @@ Set up Horizontal Pod Autoscaling (HPA) for the DApp with a minimum of 2 replica
 MongoDB Deployment:
 --------------------
 Create a StatefulSet for MongoDB with 1 replica set and a minimum availability of 1.
+we needed to save the message from setMesage from the  frontend thats why used statefulset
 Configure a PersistentVolumeClaim (PVC) for MongoDB to ensure data persistence.
 Use a NodePort Service type for MongoDB to allow external access if needed.\
 
